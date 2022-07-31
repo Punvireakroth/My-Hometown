@@ -62,7 +62,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 50rem;
-  background: url("../../../More_CSS/My_Hometown/media/dey_thai.JPG") center center no-repeat;
+  background: url("../../../media/dey_thai.JPG") center center no-repeat;
   background-size: cover;
   color: #ffb78c;
 }
@@ -168,7 +168,7 @@ body {
 footer {
   display: flex;
   align-items: center;
-  padding: 0 1%;
+  padding: 0;
   background-color: #212121;
 }
 
