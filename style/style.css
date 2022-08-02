@@ -29,6 +29,7 @@ body {
   background-color: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1.2rem;
+  font-weight: bold;
 }
 
 .header .logo {
@@ -71,13 +72,17 @@ body {
   padding: 0.55rem 0;
   border-top: 4px solid #ffb78c;
   border-bottom: 4px solid #ffb78c;
-  font-size: 1.44rem;
+  font-size: 2.44rem;
   letter-spacing: 2px;
+  font-weight: 500;
+  font-family: "Work Sans", sans-serif;
 }
 
 .banner h1 {
   padding-top: 1.11rem;
   font-size: 11rem;
+  font-weight: 400;
+  font-family: "Abril Fatface", cursive;
 }
 
 @media only screen and (max-width: 750px) {
@@ -105,6 +110,8 @@ body {
   padding: 0 25% 4rem 25%;
   background-color: rgb(254, 231, 218);
   color: #4a4a4a;
+  line-height: 1.4;
+  font-family: "Work Sans", sans-serif;
 }
 
 .photo {
@@ -126,6 +133,7 @@ body {
 
 .photo .caption {
   font-style: italic;
+  font-family: "Merriweather", serif;
 }
 
 .photo.first {
@@ -145,6 +153,7 @@ body {
   font-family: "Abril Fatface", serif;
   font-size: 7.44rem;
   color: #10b0d8;
+  line-height: 0.87;
 }
 
 .quote {
@@ -156,6 +165,7 @@ body {
   text-align: center;
   font-size: 3.55rem;
   font-weight: 800;
+  line-height: 1.2;
 }
 
 @media only screen and (max-width: 680px) {
@@ -174,6 +184,7 @@ footer {
 
 footer .image-container {
   width: 400px;
+  line-height: 1.5;
 }
 
 footer .content {
@@ -195,6 +206,7 @@ footer p:last-child {
 
 footer .author {
   color: #ffb78c;
+  width: 100px;
 }
 
 @media only screen and (max-width: 750px) {
