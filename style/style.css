@@ -63,7 +63,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 50rem;
-  background: url("../../../media/dey_thai.JPG") center center no-repeat;
+  background: url("../media/dey_thai.JPG") center center no-repeat;
   background-size: cover;
   color: #ffb78c;
 }
